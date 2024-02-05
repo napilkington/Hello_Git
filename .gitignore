@@ -1,0 +1,4 @@
+#Esto es para todos los txt
+*.txt 
+#Esto es para el archivo concreto
+*.hellogit.txt 
